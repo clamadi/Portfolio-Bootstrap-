@@ -1,0 +1,46 @@
+*{
+    /* background-color: rgb(212, 247, 247); */
+}
+.hero-banner {
+    /* background-image: url(../images/art\ station\ bg.png);
+    background-repeat: no-repeat; */
+    color: whitesmoke;
+    background-color: rgba(13, 1, 24, 0.959);
+}
+
+.hero-banner img {
+    float: right;
+    object-fit: contain;
+    padding: 1em;
+}
+
+.hero-banner div div h1 {
+    display: inline-block;
+}
+
+.body {
+    margin: 1em;
+    /* background-color: rgb(82, 162, 231); */
+}
+
+.contact ul div {
+    display: inline-block;
+    margin-left: 1em;
+}
+
+.card section img {
+    max-height: 50px;
+    max-width: 50px;
+}
+
+.footer {
+    text-align: center;
+    font-size: 12pt;
+    background-color: lightgrey;
+}
+
+.footer ul li {
+    list-style-type: none;
+    display: inline-block;
+    font-size: 8pt;
+}
