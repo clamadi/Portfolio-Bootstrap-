@@ -9,7 +9,7 @@ This helped me understand Bootstrap and how the different properties of CSS are 
 In the course of this challenge i learnt the use of different CSS properties / syntax and the corresponding Bootstrap syntax and Bootstrap Icons. I have also learnt how to locate the different elements on the HTML page while styling using the parent-child method. At first being able to locate each element on the html page was challenging. I have carefully arranged the codes leaving comments where possible to make it understable and easy for it to be modified by anyone.
 
 ## Application
-* [Portfolio Repository](https://github.com/clamadi/Portfolio-Bootstrap)
+* [Portfolio Repository](https://github.com/clamadi/Portfolio-Bootstrap-)
 * [Portfolio Webpage](https://clamadi.github.io/Portfolio-Bootstrap/)
 
 ## How to Use
