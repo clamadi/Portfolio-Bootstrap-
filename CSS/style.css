@@ -13,7 +13,7 @@
   .navbar-toggler-icon .navbar-toggler-icon .customBg {
     color: rgb(247, 252, 252);
   }  
-
+/* style the hero-section */
 .hero-banner {
     color: whitesmoke;
     background-color: rgba(13, 1, 24, 0.959);
@@ -29,6 +29,7 @@
     display: inline-block;
 }
 
+/* Styling the main section */
 .main{
     background-color: rgb(179, 245, 247);
 }
@@ -50,15 +51,4 @@
 }
 .card-body h5{display: inline-block;
 
-}
-.footer {
-    text-align: center;
-    font-size: 12pt;
-    background-color: lightgrey;
-}
-
-.footer ul li {
-    list-style-type: none;
-    display: inline-block;
-    font-size: 8pt;
 }
