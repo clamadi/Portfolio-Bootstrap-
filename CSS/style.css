@@ -52,3 +52,21 @@
 .card-body h5{display: inline-block;
 
 }
+
+/* Style footer */
+.footer {
+    padding-top: 10px;
+    padding-bottom: 0;
+    text-align: center;
+    font-size: 15px;
+    font-style: italic;
+    background-color: rgb(119, 118, 118);
+}
+
+.footer ul li {
+    display: inline-block;
+    font-size: 10px;
+}
+.shadow .p-3 .mb-5 .customBg{
+    background-color: rgb(119, 118, 118); 
+}
